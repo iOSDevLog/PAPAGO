@@ -4,7 +4,7 @@ PAPAGO Download
 
 ## Android
 
-[PAPAGO_V1.0_release_202001161012](https://github.com/iOSDevLog/PAPAGO/releases/download/v1.0/PAPAGO_V1.0_release_202001161012.apk)
+[PAPAGO_V1.0_release_202001161012](http://www.papago.com.cn/app/PAPAGO想拍/Android/PAPAGO_V1.0_release_202001161012.apk)
 
 ## iOS 
 
